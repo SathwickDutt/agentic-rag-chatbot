@@ -1,4 +1,4 @@
-# AstraRAG - Agentic RAG Chatbot
+# Agentic RAG Chatbot
 
 An intelligent conversational AI system that combines **Retrieval-Augmented Generation (RAG)** with **CrewAI agents** to provide accurate, source-aware answers to user queries. The system retrieves relevant information from a document knowledge base and generates responses with full transparency on sources and reasoning.
 
