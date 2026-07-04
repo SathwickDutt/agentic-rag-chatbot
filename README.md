@@ -1,1 +1,1 @@
-# project-3-astrarag-agentic-rag-chatbot
+# agentic-rag-chatbot
