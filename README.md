@@ -448,3 +448,36 @@ Response:
 
 **Built with ❤️ using CrewAI, LlamaIndex, and RAG**
 
+
+# Project Demo
+
+## Home Page & Chatbot Response
+
+<img width="1915" height="951" alt="RAG chatbot" src="https://github.com/user-attachments/assets/a66b4f46-c5f8-4b44-a2f4-5c9cfcbdd234" />
+
+---
+
+## Document Ingestion
+
+<img width="1512" height="467" alt="vector build" src="https://github.com/user-attachments/assets/2bd75741-c3e3-4b35-ae5e-533acd876c2a" />
+
+---
+
+## Docker ps
+
+<img width="1917" height="381" alt="docker ps" src="https://github.com/user-attachments/assets/ba5fbc94-2d03-427d-9f53-4e19ee863f51" />
+
+
+---
+
+## FastAPI Running
+
+<img width="1897" height="752" alt="fastapi" src="https://github.com/user-attachments/assets/352949ca-5e25-4eea-97e2-e9d2b01b1826" />
+
+
+---
+
+## AWS EC2 Deployment
+
+<img width="1732" height="645" alt="ec21" src="https://github.com/user-attachments/assets/233952ec-6fc6-43e5-8b2f-1eb8bd1e12e1" />
+
